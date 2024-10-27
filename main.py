@@ -1,7 +1,6 @@
 #In future turn it into a web application using opencv.js
 #dlib library is used to use GPU in the model cuda is used
 #https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
-#to save data conenct firebase to exel or any other data saving app
 
 import os
 import pickle
